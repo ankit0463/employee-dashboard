@@ -3,16 +3,27 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
 •	Make sure you have Node v12.X installed on your system.
+
 •	Unzip the project and place it in a location.
+
 •	The unzipped folder is the Angular project and it also has ‘employee-backend’ folder which is the node project.
-•	Open Command prompt in the unzipped folder and also in the ‘employee-backend’ folder
+
+•	Open Command prompt in the unzipped folder and also in the ‘employee-backend’ folder.
+
 •	Run ‘npm i’ on both command prompt to install all the required dependencies.
+
 •	Once the dependencies are installed, run ‘npm start’ to run the angular project and ‘node index.js’ to run the node project on your system.
+
 •	Post successful compilation of code, Open any browser (Chrome Preferred) and go to localhost:4200.
+
 •	Below are the credentials for accessing the dashboard
+
   o	Username: employee
+  
   o	Password: employee@eds
+  
 •	The credentials are validated by login api. Credentials are case sensitive.
+
 •	Once user is logged in, the session has a timeout of 5 mins. Post 5 mins, if any api call is made then the system will logout the user and navigate to login page so that the user can login again.
 
 
