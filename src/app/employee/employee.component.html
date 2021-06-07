@@ -1,0 +1,8 @@
+<app-search-employee
+  [query]="searchQuery | async"
+  [searching]="loading | async"
+  [error]="error | async"
+  (search)="search($event)"
+>
+</app-search-employee>
+<app-employee-results [dataSource]="employeeData | async"></app-employee-results>

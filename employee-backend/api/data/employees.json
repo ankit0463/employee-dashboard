@@ -1,0 +1,68 @@
+[
+  {
+    "userId": "1",
+    "jobTitleName": "Developer",
+    "firstName": "Romin",
+    "lastName": "Irani",
+    "preferredFullName": "Romin Irani",
+    "employeeCode": "E1",
+    "region": "CA",
+    "phoneNumber": "408-1234567",
+    "emailAddress": "romin.k.irani@gmail.com"
+  },
+  {
+    "userId": "2",
+    "jobTitleName": "Developer",
+    "firstName": "Neil",
+    "lastName": "Irani",
+    "preferredFullName": "Neil Irani",
+    "employeeCode": "E2",
+    "region": "CA",
+    "phoneNumber": "408-1111111",
+    "emailAddress": "neilrirani@gmail.com"
+  },
+  {
+    "userId": "3",
+    "jobTitleName": "Program Directory",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "preferredFullName": "Tom Hanks",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "408-2222222",
+    "emailAddress": "tomhanks@gmail.com"
+  },
+  {
+    "userId": "4",
+    "jobTitleName": "Consultant",
+    "firstName": "Ted",
+    "lastName": "George",
+    "preferredFullName": "Ted George",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "408-2222213",
+    "emailAddress": "tedgeorge@gmail.com"
+  },
+  {
+    "userId": "5",
+    "jobTitleName": "Program Manager",
+    "firstName": "Peter",
+    "lastName": "Snow",
+    "preferredFullName": "Peter Snow",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "408-2222234",
+    "emailAddress": "petersnow@gmail.com"
+  },
+  {
+    "userId": "6",
+    "jobTitleName": "Contractor",
+    "firstName": "Roman",
+    "lastName": "Stark",
+    "preferredFullName": "Roman Stark",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "408-2222345",
+    "emailAddress": "romanstark@gmail.com"
+  }
+]

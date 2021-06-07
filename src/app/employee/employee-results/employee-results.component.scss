@@ -1,0 +1,15 @@
+mat-table {
+    padding: 16px;
+}
+
+.example-container {
+  width: 100%;
+  max-width: 100%;
+  overflow: auto;
+}
+
+@media (max-width: 600px) {
+  mat-table {
+    padding: 6px !important;
+  }
+}

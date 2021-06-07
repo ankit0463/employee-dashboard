@@ -1,0 +1,54 @@
+.host {
+  display: flex;
+  justify-content: center;
+  margin: 72px 36%;
+  flex-direction: column;
+}
+
+@media (max-width: 1200px) {
+  .host {
+    margin: 72px 32%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .host {
+    margin: 72px 24%;
+  }
+}
+
+@media (max-width: 767px) {
+  .host {
+    margin: 72px 6%;
+  }
+}
+
+@media (max-width: 350px) {
+  .host {
+    margin: 72px 0;
+  }
+}
+
+.mat-form-field {
+  width: 100%;
+  min-width: 300px;
+}
+
+mat-card-title,
+mat-card-content {
+  display: flex;
+  justify-content: center;
+}
+
+.loginError {
+  padding: 16px;
+  width: 300px;
+  color: white;
+  background-color: red;
+}
+
+.loginButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
